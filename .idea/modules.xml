@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Classic Algorithms/collatzConjecture/collatzConjecture.iml" filepath="$PROJECT_DIR$/Classic Algorithms/collatzConjecture/collatzConjecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Numbers/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/Numbers/fibonacci/fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/Numbers/findEtoNthDigit/findEtoNthDigit.iml" filepath="$PROJECT_DIR$/Numbers/findEtoNthDigit/findEtoNthDigit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Numbers/findPItoNthDigit/findPItoNthDigit.iml" filepath="$PROJECT_DIR$/Numbers/findPItoNthDigit/findPItoNthDigit.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/karanProjects.iml" filepath="$PROJECT_DIR$/.idea/karanProjects.iml" />
