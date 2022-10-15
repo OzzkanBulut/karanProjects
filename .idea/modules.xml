@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Numbers/findEtoNthDigit/findEtoNthDigit.iml" filepath="$PROJECT_DIR$/Numbers/findEtoNthDigit/findEtoNthDigit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Numbers/findPItoNthDigit/findPItoNthDigit.iml" filepath="$PROJECT_DIR$/Numbers/findPItoNthDigit/findPItoNthDigit.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/karanProjects.iml" filepath="$PROJECT_DIR$/.idea/karanProjects.iml" />
     </modules>
